@@ -1,0 +1,38 @@
+{
+  "name": "coastal-fitness-correction",
+  "version": "1.0.0",
+  "description": "Revolutionary health management platform for medical fitness facilities",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "test": "echo \"No tests configured\"",
+    "deploy": "vercel"
+  },
+  "keywords": [
+    "health",
+    "fitness",
+    "medical",
+    "tracking",
+    "body-measurements",
+    "react",
+    "tailwind"
+  ],
+  "author": "Dr. Josh Lerner <josh.lerner@coastal.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/coastal-fitness.git"
+  },
+  "homepage": "https://coastal-fitness.vercel.app",
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}
