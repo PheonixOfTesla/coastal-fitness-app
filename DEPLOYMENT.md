@@ -7,4 +7,3 @@
 2. Name it `coastal-fitness` or your preferred name
 3. Make it public for GitHub Pages
 
-[Copy the full DEPLOYMENT.md from Document 3 in the conversation for complete guide]
